@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning *Coding, Telegram bot making and many more*
 
 - 💬 Ask me about *Telegram, Termux*
-### *ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ*
+### *😉ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ*
 [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xadarsh)
 <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/3rabaap)
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact *I learn new things too fast*
 
-### *𝙈𝙮 𝙒𝙚𝙗𝙨𝙞𝙩𝙚*
+### *🔗𝙈𝙮 𝙒𝙚𝙗𝙨𝙞𝙩𝙚*
  [![Website](https://img.shields.io/website?label=Adarshxd.tk&style=for-the-badge&url=https%3A%2F%2FAdarshxd.tk)](https://adarshxd.tk)
 
 # 🧑‍💻𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xadarsh&" alt="xadarsh" /></p>
 
-### ʀᴇɢᴀʀᴅs
+### ✨ʀᴇɢᴀʀᴅs
 <p align="center">
   <a href="https://github.com/xadarsh" target="_blank">
     <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
