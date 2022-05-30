@@ -24,14 +24,13 @@
 
 - ⚡ Fun fact *I learn new things too fast*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### *𝙈𝙮 𝙒𝙚𝙗𝙨𝙞𝙩𝙚*
+ [![Website](https://img.shields.io/website?label=Adarshxd.tk&style=for-the-badge&url=https%3A%2F%2FAdarshxd.tk)](https://adarshxd.tk)
 
-# 💻Tech Stack
+# 🧑‍💻𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-### ✍️Random Dev Quote
+### ✍️𝙍𝙖𝙣𝙙𝙤𝙢 𝘿𝙚𝙫 𝙌𝙪𝙤𝙩𝙚𝙨
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
