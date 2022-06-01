@@ -1,4 +1,4 @@
-![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+![MasterHead](https://www.boxfreshtech.co.za/sitepad-data/uploads//2021/06/5cfe14_30977ca5f4d04cc2a8977a980baf19a9_mv2.gif)
 
 <h1 align="center">𝙃𝙞 <img src="https://github.com/xadarsh/xadarsh/blob/main/Hi.gif" width="29px"> , 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
