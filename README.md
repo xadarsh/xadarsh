@@ -1,6 +1,6 @@
 ![MasterHead](https://www.boxfreshtech.co.za/sitepad-data/uploads//2021/06/5cfe14_30977ca5f4d04cc2a8977a980baf19a9_mv2.gif)
 
-<h1 align="center">𝙃𝙞 <img src="https://github.com/xadarsh/xadarsh/blob/main/Hi.gif" width="29px"> , 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃</h1>
+<h1 align="center">𝙃𝙞, 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
