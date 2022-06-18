@@ -1,3 +1,12 @@
+### ✨ʀᴇɢᴀʀᴅs
+<p align="center">
+  <a href="https://github.com/xadarsh" target="_blank">
+    <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
+    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=2000&height=100" width="450"> -->
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=700&height=100" width="700">
+  </a>
+</p>
+
 ![MasterHead](https://www.boxfreshtech.co.za/sitepad-data/uploads//2021/06/5cfe14_30977ca5f4d04cc2a8977a980baf19a9_mv2.gif)
 
 <h1 align="center">𝙃𝙞, 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃</h1>
@@ -39,12 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xadarsh&show_icons=true&locale=en" alt="xadarsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xadarsh&" alt="xadarsh" /></p>
-
-### ✨ʀᴇɢᴀʀᴅs
-<p align="center">
-  <a href="https://github.com/xadarsh" target="_blank">
-    <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
-    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=2000&height=100" width="450"> -->
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=700&height=100" width="700">
-  </a>
-</p>
