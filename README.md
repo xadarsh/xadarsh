@@ -1,50 +1,108 @@
 ### ✨ʀᴇɢᴀʀᴅs
 <p align="center">
   <a href="https://github.com/xadarsh" target="_blank">
-    <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
-    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=2000&height=100" width="450"> -->
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=700&height=100" width="700">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDFDFD&width=435&lines=%F0%9D%91%BB%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8C+%F0%9D%92%9A%F0%9D%92%90%F0%9D%92%96+%F0%9D%91%AD%F0%9D%92%90%F0%9D%92%93+%F0%9D%91%BD%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88+%F0%9D%91%B4%F0%9D%92%9A+%F0%9D%91%B7%F0%9D%92%93%F0%9D%92%90%F0%9D%92%87%F0%9D%92%8A%F0%9D%92%8D%F0%9D%92%86+%E2%9D%A3%EF%B8%8F%F0%9F%A5%80" alt="Typing SVG" /></a>
   </a>
 </p>
+<div align="center">
+  <img width="70%" src="https://camo.githubusercontent.com/20066392612d924444583d7d18022b84ed19ca34a419267b3dcc796d488c1c9e/68747470733a2f2f7777772e626f786672657368746563682e636f2e7a612f736974657061642d646174612f75706c6f6164732f2f323032312f30362f3563666531345f33303937376361356634643034636332613839373761393830626166313961395f6d76322e676966"  />
+</div>
 
-![MasterHead](https://www.boxfreshtech.co.za/sitepad-data/uploads//2021/06/5cfe14_30977ca5f4d04cc2a8977a980baf19a9_mv2.gif)
 
-<h1 align="center">𝙃𝙞, 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃</h1>
-<h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h2 align="center">𝙃𝙞 👋 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃 <br>   A passionate Java developer from India</h2>
 
-[![](https://visitcount.itsvg.in/api?id=xadarsh&icon=6&color=0)](https://visitcount.itsvg.in)
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xadarsh" alt="xadarsh" /></a> </p>
-- 🌱 I’m currently learning *Coding, Telegram bot making and many more*
+<div align="center">
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/xadarsh/count.svg?"  />
+</div>
 
-- 💬 Ask me about *Telegram, Termux*
-### *😉ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ*
-[![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xadarsh_x)
+###
+<h3 align="left">😉𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚:</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/xadarsh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="mailto:adarshmaurya541@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/xadarsh_x" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="74" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/xadarsh_x" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="74" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://twitter.com/@xadarsh_x" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="74" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+<h3 align="left">🛠 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨:</h3>
 <br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adarsh541)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xadarsh_x/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/adarsh-maurya-600b2023b) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@xadarsh_x) 
 
-- 📫 How to reach me *aadarshmaurya541@gmail.com*
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="44" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="44" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="44" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
+</div>
 
-- ⚡ Fun fact *I learn new things too fast*
+###
 
-### *🔗𝙈𝙮 𝙒𝙚𝙗𝙨𝙞𝙩𝙚*
- [![Website](https://img.shields.io/website?label=Adarshxd.tk&style=for-the-badge&url=https%3A%2F%2FAdarshxd.tk)](https://adarshxd.tk)
 
-# 🧑‍💻𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+<h3 align="left">🔥   𝙈𝙮 𝙎𝙩𝙖𝙩𝙨:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xadarsh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=xadarsh&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
 
-### ✍️𝙍𝙖𝙣𝙙𝙤𝙢 𝘿𝙚𝙫 𝙌𝙪𝙤𝙩𝙚𝙨
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+### 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">🔝 𝙏𝙤𝙥 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚𝙙 𝙍𝙚𝙥𝙤:</h3>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xadarsh&show_icons=true&locale=en" alt="xadarsh" /></p>
+  ![](https://github-contributor-stats.vercel.app/api?username=xadarsh&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xadarsh&" alt="xadarsh" /></p>
+
+###
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshmaurya541/adarshmaurya541/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshmaurya541/adarshmaurya541/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adarshmaurya541/adarshmaurya541/output/github-snake.svg" />
+</picture>
+
+###
