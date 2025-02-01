@@ -9,7 +9,7 @@
 </div>
 
 
-<h2 align="center">𝙃𝙞 👋 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃 <br>   A passionate Java developer from India</h2>
+<h2 align="center">𝙃𝙞 <img width="3%" src="https://github.com/xadarsh/xadarsh/blob/ba315f71f8535ccc6649e6515b2874c74225cfaa/Hi.gif"> 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃 <br>   A passionate Java developer from India</h2>
 
 ###
 
