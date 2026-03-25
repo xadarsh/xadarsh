@@ -4,9 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDFDFD&width=435&lines=%F0%9D%91%BB%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8C+%F0%9D%92%9A%F0%9D%92%90%F0%9D%92%96+%F0%9D%91%AD%F0%9D%92%90%F0%9D%92%93+%F0%9D%91%BD%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88+%F0%9D%91%B4%F0%9D%92%9A+%F0%9D%91%B7%F0%9D%92%93%F0%9D%92%90%F0%9D%92%87%F0%9D%92%8A%F0%9D%92%8D%F0%9D%92%86+%E2%9D%A3%EF%B8%8F%F0%9F%A5%80" alt="Typing SVG" /></a>
   </a>
 </p>
-<div align="center">
-  <img width="70%" src="https://camo.githubusercontent.com/20066392612d924444583d7d18022b84ed19ca34a419267b3dcc796d488c1c9e/68747470733a2f2f7777772e626f786672657368746563682e636f2e7a612f736974657061642d646174612f75706c6f6164732f2f323032312f30362f3563666531345f33303937376361356634643034636332613839373761393830626166313961395f6d76322e676966"  />
-</div>
 
 
 <h2 align="center">𝙃𝙞 <img width="3%" src="https://github.com/xadarsh/xadarsh/blob/ba315f71f8535ccc6649e6515b2874c74225cfaa/Hi.gif"> 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃 <br>   A passionate Java developer from India</h2>
